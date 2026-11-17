@@ -1,6 +1,6 @@
 # S8-Project-NovaRetail
 S8 Proyecto NovaRetail
-
+NovaRetail+ es una plataforma de e-commerce que quiere entender qué variables de comportamiento del cliente están más asociadas con el ingreso generado
 Sección 1 - Cargar y explorar el dataset
 Sección 2 - Preparar datos y documentar supuestos
 Sección 3 - Visualización de relaciones
