@@ -1,5 +1,6 @@
 # S8-Project-NovaRetail
 S8 Proyecto NovaRetail
+
 Sección 1 - Cargar y explorar el dataset
 Sección 2 - Preparar datos y documentar supuestos
 Sección 3 - Visualización de relaciones
