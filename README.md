@@ -1,5 +1,5 @@
 # Project-NovaRetail  
-NovaRetail+ es una plataforma de e-commerce que quiere entender qué variables de comportamiento del cliente están más asociadas con el ingreso generado  
+**NovaRetail+** es una plataforma de e-commerce que quiere entender qué variables de comportamiento del cliente están más asociadas con el ingreso generado  
 **Herramientas utilizadas:** Python & Pandas, seaborn, matplotlib, numpy, scipy.stats: pointbiserialr & chi2_contingency  
 **Datasets utilizados:** novaretail_comportamiento_clientes_2024.csv  
 **Sección 1** - Cargar y explorar el dataset  
